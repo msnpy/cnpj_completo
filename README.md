@@ -1,12 +1,12 @@
 # cnpj_completo
 
-#git clone https://github.com/msnpy/cnpj_completo.git
+# git clone https://github.com/msnpy/cnpj_completo.git
 
-#cd cnpj_completo/
+# cd cnpj_completo/
 
-#pip -r requirements.txt
+# pip -r requirements.txt
 
-#python3 consulta_cnpj.py
+# python3 consulta_cnpj.py
 
 
 
