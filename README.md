@@ -1,5 +1,13 @@
 # cnpj_completo
-Consulta cnpj completo
+
+#git clone https://github.com/msnpy/cnpj_completo.git
+
+#cd cnpj_completo/
+
+#pip -r requirements.txt
+
+#python3 consulta_cnpj.py
+
 
 
 <center>
